@@ -1,5 +1,6 @@
 # Data: too big for GitHub (100 MB file limit). Each member keeps their own copy.
-data/
+data/*
+!data/taxi_zone_lookup.csv
 
 # Python environment: everyone creates their own from requirements.txt
 .venv/
